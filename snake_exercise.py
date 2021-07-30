@@ -143,6 +143,7 @@ while True:
         # Complete the three point bellow, if the snake hit a wall or itself,
         # the content of the variable running will pass to False
         # if ...
+        # ...
 
         # draw
         screen.fill((40, 40, 40))
